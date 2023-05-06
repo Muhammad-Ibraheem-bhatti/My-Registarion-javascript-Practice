@@ -1,0 +1,12 @@
+#box1{
+    border-radius: 20px;
+    background-image: url("./asstes/login.webp");
+    background-position: center center;
+    background-size: cover;
+    /* opacity: 0.9;
+    filter: grayscale(100%); */
+
+}
+body{
+    background-color: aquamarine;
+}
